@@ -1,0 +1,20 @@
+{{extend 'layout.html'}}
+<h3>FAQ's</h3>
+
+					<h4 style="font:800 17px 'Roboto',sans-serif; color:#007D9E;">Securing a medical appointment</h4>
+
+					<p><strong>How do I schedule medical appointments with a specialist at Aarogya?</strong></p>
+
+					<p>You or your attendant can contact the International Patients Service Centre of the location of your choice, via telephone, fax, email or letter. Details are available at the Contact us section of this website. Alternatively, you can fill in the form available in the website in the Ask Us section.</p>
+
+					<p><strong>When making a medical appointment what information must I provide?</strong></p>
+
+					<p>You must provide all relevant information on your medical condition, including scans, medical history, and current medication etc.If you have been referred to Aarogya by a doctor in your home country, please carry the contact details of the doctor.</p>
+
+					<p><strong>Without a referral from my local doctor, can I seek an appointment with a specialist at Aaogya?</strong></p>
+
+					<p>Yes. You can contact the Aarogya International Patients centre of our various Aarogya locations directly, with details of your medical history and treatment sought. Our International Patient Service Co-ordinators will recommend and also schedule an appointment, with an appropriate specialist.</p>
+
+					<p><strong>Will someone guide me on the duration and cost of treatments?</strong></p>
+
+					<p>Definitely. Once you have consulted the appropriate specialist, our Relationship Manager will give you a complete plan on the approximate length of stay at the hospitals and the total cost of the treatment, along with the necessary pre

@@ -1,0 +1,7 @@
+{{extend 'layout.html'}}
+<h3>Doctor's Availabilty Times are given.Click to get the required time's appointment.Email will be sent soon</h3>
+{{if list:}}
+{{for l in list:}}
+{{if l:}}
+{{=A(l,callback=URL('see',args=l))}}
+{{pass}}

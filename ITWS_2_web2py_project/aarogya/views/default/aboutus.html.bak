@@ -1,0 +1,90 @@
+{{extend 'layout.html'}}
+<html>
+<head>
+<title>
+IIIT-H
+</title>
+<center><img src="IIIT.jpg"></center>
+<hr/>
+</head>
+<body>
+<center>
+<p>Aarogyaa @ IIIT Hyderabad</p>
+</center>
+<p align="justify">
+We have a health center in the IIIT Campus (Next to Soccer ground) which caters to the IIIT community.
+</p>
+<h2>Doctors’ Visits:</h2>
+<p align="justify">
+<b>1. Allopathy:</b><br/>
+Dr. Shyamala Kumar <br/>
+Visiting Hours: 1.30 to 2.15 PM (Monday to Saturday) - 6 Visits in a Week*<br/>
+Contact: 88855 75576<br/>
+</p>
+<p align="justify">
+* In case of not being able to consult the Doctor in the health center due to clash in class timings, students may go to Telecom Nagar clinic between 11:30 and 1:00 PM or to Vinayak Nagar (Balaji Medicals) between 7:00 and 8:30 PM after informing Mr. B. Lakshmi Narayana. Consultation fees will not be charged for the IIIT students, but have to procure medicine.
+
+</p>
+<p align="justify">
+<b>2. Ayurveda:</b>
+Dr. Vinaya <br/>
+Visiting Hours: 10 AM to 1 PM (Mon/Wed/Fri)<br/>
+Contact: 99499 66081<br/>
+
+</p>
+<p align="justify">
+<b>3. Homeopathy:</b><br/>
+Dr. Shubhashini Reddy<br/>
+Visiting Hours: 9 AM to 12 PM (Thursday only)<br/>
+Contact: 99853 37638<br/>
+</p>
+<p align="justify">
+<b>4. Naturopathy:</b><br/>
+Mr. Vinayak Joshi & Mrs. Pratibha<br/>
+Visiting Hours: 8:15 to 9:45 AM<br/>
+Contact: 95054 69236<br/>
+</p>
+<p align="justify">
+<b>5. Students’ Counsellor:</b><br/>
+Dr. Kiranmayee S Bapi<br/>
+Visiting Hours: <br/>
+Contact: 94403 89231<br/>
+</p>
+<p align="justify">
+<h3>Sick Room Facility:</h3>
+
+Sick room with minimal support is available in the health center that can be used by those who have been advised isolation by the doctor. 
+</p>
+<p align="justify">
+<h3>Emergency:</h3>
+
+<b>(1) Institute Ambulance:</b> During non-office hours, inform the hostel/nearest security and he/she will request for the Institute ambulance. During office hours, ambulance facility may be requested from caretakers of the hostel. The request time and other details have to be entered in the register kept for this purpose for quality check and improvement. This vehicle is available only for emergency purposes, and not for scheduled doctor visits or for visiting diagnostic centers. (<a href="ambulance.php">Click here for Guidelines</a>)
+</p>
+<p align="justify">
+<b>(2) 108 Service:</b> In case, the Institute ambulance is not available or being used by someone else, you may call 108.
+
+</p>
+<p align="justify">
+<b>(3) Nearby Hospitals:</b> We also have signed MoU with two nearby hospitals, whose ambulance can be availed free of cost.<br/> 
+<ul>
+	
+<li>Continental Hospital (Emergency: 040 6700 0111)</li><br/>
+<li>Himagiri Hospital (Emergency: 040 2300 4206)</li>
+</ul>
+</p>
+<p align="justify">
+<b>Medical Insurance:</b>
+
+All students of the Institute are covered by minimal Health Insurance (upto Rs. 35000). This is applicable only for in-patient treatments. Further details can be obtained from Mr. B. Lakshmi Narayana.
+<a href="http://intranet.iiit.ac.in/Information/academic/stu_health_care.html">Details of Insurance</a>
+</p>
+<p align="justify">
+<b>Details of MoU with Nearby Hospitals:</b>
+
+IIIT Hyderabad has signed MoU with Himagiri Hospitals (Vinayak Nagar), and Continental Hospitals (Financial District - ISB Road). These two hospitals 
+<ol>
+<li><a href="ContinentalHospital.pdf">Continental Hospital (click for details)</a></li><br/>
+<li><a href="himagiri.php">Himagiri Hospital (click for details)</a></li>
+</ol>
+</p>
+<p align="justify">

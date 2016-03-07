@@ -1,0 +1,4 @@
+{{extend 'layout.html'}}
+<h1>{{=posts.Name}}</h1>
+<i>Posted on {{=posts.created_on}} by {{=posts.created_by.first_name}} {{=posts.created_by.last_name}}</i>
+{{=MARKMIN(posts.Comments)}

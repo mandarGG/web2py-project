@@ -1,0 +1,5 @@
+{{extend 'layout.html'}}
+<h1>{{=med_m.Name_of_medicine}}</h1>
+<i>Number of units available: {{=med_m.No_of_units_available}} </i>
+<h1>Frequently used for</h1>
+{{=MARKMIN(med_m.sp_use)}}

@@ -1,0 +1,10 @@
+{{extend 'layout.html'}}
+<h1>Here we come!</h1>
+<table class="table">
+    <tr>
+        <td>Mandar Gondhalekar 7842697102 m.g.g@live.com </td>
+        </br>
+        <td>Aditya Vikram Agarwal 8143807804 adityagrwl.17@gmail.com </td>
+    </tr>
+</table>
+{{=BEAUTIFY(response._vars)}}

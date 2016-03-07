@@ -1,0 +1,8 @@
+{{extend 'layout.html'}}
+<h2>{{=posts_s.Name_of_staffmember}}</h2>
+<i>Date_of_birth: {{=posts_s.Date_of_birth}} </i>
+<h3>Photo</h3>
+{{row = db(db.med.medimage==request.args[0]).select()[0]}}
+{{=row}}
+<h3>Specialised in</h3>
+{{=MARKMIN(posts_s.Speciality)}}

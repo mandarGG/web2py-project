@@ -1,0 +1,3 @@
+{{extend 'layout.html'}}
+<h3>Please fill in the details to get the appointment</h3>
+{{=aform}}

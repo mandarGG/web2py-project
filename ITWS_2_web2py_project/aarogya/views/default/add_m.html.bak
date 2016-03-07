@@ -1,0 +1,3 @@
+{{extend 'new1.html'}}
+<h3>Add the new medicine details here</h3>
+{{=mform}}

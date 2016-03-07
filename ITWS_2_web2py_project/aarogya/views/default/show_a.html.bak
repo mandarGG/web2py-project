@@ -1,0 +1,5 @@
+{{extend 'layout.html'}}
+<h1>{{=posts_a.Your_Name}}</h1>
+<i>Posted on {{=posts_a.Date_of_appointment}}</i>
+<h2>Symptoms mentioned</h2>
+{{=MARKMIN(posts_a.Reason)}}

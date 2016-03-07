@@ -1,0 +1,2 @@
+{{extend 'new1.html'}}
+<h1>{{=form}}</h1>

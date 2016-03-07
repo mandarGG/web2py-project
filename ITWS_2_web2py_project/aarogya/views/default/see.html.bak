@@ -1,0 +1,17 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
+{{extend 'layout.html'}}
+
+<h1>Doctor's Availability Times</h1>
+<table class="table">
+    {{for i in list:}}
+    <tr>
+        <td><a href="{{=URL('see',args=i.id)}}">{{=list[i]}}</a></td> #what is args
+    </tr>
+    {{pass}}
+</table>
+
+
+{{block right_sidebar}}
+{{=A(T("Administrative Interface"), _href=URL('admin','default','index'), _class='btn',
+     _style='margin-top: 1em;')}}
+{{end}}

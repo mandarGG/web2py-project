@@ -1,0 +1,18 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
+{{extend 'layout.html'}}
+
+<h2> List of available medicines</h2>
+<table class="table">
+    {{for row_m in rows_m:}}
+    <tr>
+        <td><a href="{{=URL('show_m',args=row_m.id)}}">{{=row_m.Name_of_medicine}}</a></td>
+        <td>{{=row_m.No_of_units_available}}</td>
+    </tr>
+    {{pass}}
+</table>
+
+
+{{block right_sidebar}}
+{{=A(T("Administrative Interface"), _href=URL('admin','default','index'), _class='btn',
+     _style='margin-top: 1em;')}}
+{{end}}
